@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'katana';
+    src: url(../fonts/KATANA.ttf);
+}
+
+@font-face {
+    font-family: 'avenger';
+    src: url(../fonts/Good\ Times\ Rg.otf);
+}
+
+body {
+    font-family: 'Arial';
+}
+
+h1 {
+    font-family: 'katana';
+    font-size: x-large;
+}
+
+.contact {
+    font-size: small;
+    padding: 24px 12px;
+    margin: 12px 12px;
+    border: 12px solid #000000;
+    border-radius: 12px;
+}
+
+.experience {
+    border: 10px solid #000000;
+    border-radius: 20px;
+}
+
+.exp-titre {
+    font-family:sans-serif;
+    text-align: center;
+    color: dodgerblue;
+}
+
+.exp-tp {
+    font-size: 15px;
+}
+
+.tp {
+    font-weight: bold;
+}
+
+.formation {
+    border: 10px solid #000000;
+    border-radius: 20px;
+}
+
